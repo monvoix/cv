@@ -1,6 +1,6 @@
 - experience:
   role: Implementation Manager 
-  time: Sept 2017 - Present
+  time: Sep 2017 - Present
   company: SAP
   details: "<ul>
   <li>Manage implementation project portfolio for Small Business ERP Implementations</li>
@@ -10,18 +10,75 @@
   </ul>
   "
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Implementation Consultant
+  time: Dec 2015 - Sep 2017
+  company: SAP
+  details: "
+    <ul>
+        <li>Implement SAP Anywhere for Small and Medium Businesses</li>
+        <li>Conduct customer visits for project planning and training</li> 
+        <li>Work closely with development team to define requirements for new software features and enhancements </li>
+        <li>Gather and refine customer requirements for custom integrations</li>
+        <li>Interface with third party developers and partners on behalf of customers, serving as PM and technical resource. </li>
+    </ul>"
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Implementation Specialist / Business Analyst 
+  time: Nov 2014 - Dec 2015
+  company: LearningMate / Arizona Department of Education
+  details: "
+  <ul>
+    <li>Implemented Learning Management Systems (LMS) for local school districts</li>
+    <li>Blackboard Learn LMS Administration</li>
+    <li>Blackboard Collaborate Administration</li>
+    <li>Implementation Project Planning</li>
+    <li>Business Analyst for development of new Event Management System (EMS)</li>
+ </ul>"
+experience:
+  role: Application Administrator
+  time: Dec 2011 - Nov 2014
+  company: TriZetto
+  details: "
+    <ul>
+        <li>Implemented Cornerstone LMS for the enterprise </li>
+        <li>Cornerstone LMS Administrator</li>
+        <li>Implemented Extended Enterprise portals and e-commerce suite</li>
+        <li>Provided training and business analytics for management and key decision makers</li>
+        <li>Provided LMS support for trainers and end-users</li>
+        <li>Project Management and Process Improvement</li>
+        <li>Improved evaluation and assessment process to reduce workload</li>
+    </ul>"
+experience: 
+    role: Learning Management System (LMS) Administrator 
+    time: Sep 2007 - Nov 2011 
+    company: Marshall Unviersity 
+    details: "
+    <ul>
+        <li>Maintained and administrated Blackboard Vista and Learn LMS</li> 
+        <li>Developed and implemented a major product upgrade with the LMS team</li>
+        <li>Verified reported bugs and security flaws and worked with vendors to create resolutions and workarounds</li>
+        <li>Developed training materials for faculty and students</li>
+        <li>Worked with faculty in the development of online courses</li>
+        <li>Performed testing of Service Packs, Powerlinks, and new versions of Blackboard software, as well as various other software</li>
+        <li>Supervised student assistants</li> 
+        <li>Tier-3 support</li>
+    </ul>"
+experience: 
+    role: Assistant LMS Adinistrator
+    time: Jul 2005 - Sep 2007
+    company: Marshall University 
+    details: "
+    <ul>
+        <li>Performed system administrative tasks</li>
+        <li>Developed training materials for faculty and students</li>
+        <li>Performed testing of Service Packs, Powerlinks, and new version of Blackboard Vista, as well as various other software</li>
+    </ul>"
+experience: 
+    role: Instructional Developer 
+    time: Aug 2004 - Jul 2005
+    company: Marshall University 
+    details: "
+    <ul>
+        <li>Aided faculty development of E-Course, T-Courses, and course supplements in a variety of disciplines</li>
+        <li>Aided and trained faculty members in the use of Blackboard Vista</li>
+        <li>Provided support to faculty in development and throughout the teaching of their courses</li>
+    </ul>"
