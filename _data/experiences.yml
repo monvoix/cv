@@ -33,7 +33,7 @@
     <li>Implementation Project Planning</li>
     <li>Business Analyst for development of new Event Management System (EMS)</li>
  </ul>"
-experience:
+- experience:
   role: Application Administrator
   time: Dec 2011 - Nov 2014
   company: TriZetto
@@ -47,7 +47,7 @@ experience:
         <li>Project Management and Process Improvement</li>
         <li>Improved evaluation and assessment process to reduce workload</li>
     </ul>"
-experience: 
+- experience: 
     role: Learning Management System (LMS) Administrator 
     time: Sep 2007 - Nov 2011 
     company: Marshall Unviersity 
@@ -62,7 +62,7 @@ experience:
         <li>Supervised student assistants</li> 
         <li>Tier-3 support</li>
     </ul>"
-experience: 
+- experience: 
     role: Assistant LMS Adinistrator
     time: Jul 2005 - Sep 2007
     company: Marshall University 
@@ -72,7 +72,7 @@ experience:
         <li>Developed training materials for faculty and students</li>
         <li>Performed testing of Service Packs, Powerlinks, and new version of Blackboard Vista, as well as various other software</li>
     </ul>"
-experience: 
+- experience: 
     role: Instructional Developer 
     time: Aug 2004 - Jul 2005
     company: Marshall University 
